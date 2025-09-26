@@ -38,22 +38,9 @@ Siga os passos abaixo para rodar a aplicação em sua máquina local.
 
 ### ⚙️ Instalação
 
-1.  **Clone o repositório (ou baixe os arquivos):**
+1.  **Instale as dependências:**
     ```bash
-    # Exemplo com git
-    git clone <url-do-repositorio>
-    cd <pasta-do-repositorio>
-    ```
-
-2.  **Crie um ambiente virtual (recomendado):**
-    ```bash
-    python -m venv venv
-    source venv/bin/activate  # No Windows: venv\Scripts\activate
-    ```
-
-3.  **Instale as dependências:**
-    ```bash
-    pip install -r requirements.txt
+    pip install streamlit networkx matplotlib
     ```
 
 ### ▶️ Rodando a Aplicação
@@ -64,3 +51,4 @@ Siga os passos abaixo para rodar a aplicação em sua máquina local.
     streamlit run app.py
     ```
 3.  A aplicação abrirá automaticamente no seu navegador!
+
