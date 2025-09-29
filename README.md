@@ -52,7 +52,10 @@ Siga os passos abaixo para rodar a aplicação em sua máquina local.
     ```
 3.  A aplicação abrirá automaticamente no seu navegador!
 
-=============================================
-Link do Vídeo: https://drive.google.com/drive/folders/1S0O4ym65uIaFV3JqQsHDcVCPrQ_Z-1ev?usp=sharing
+=========================================================================
+Link do Vídeo: 
+
+https://drive.google.com/drive/folders/1S0O4ym65uIaFV3JqQsHDcVCPrQ_Z-1ev?usp=sharing
+
 
 
