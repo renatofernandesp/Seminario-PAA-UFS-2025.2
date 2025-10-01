@@ -56,7 +56,10 @@ Siga os passos abaixo para rodar a aplicação em sua máquina local.
 
 Link do Vídeo: 
 
+https://youtu.be/5mHpGKKb1MY
+
 https://drive.google.com/drive/folders/1S0O4ym65uIaFV3JqQsHDcVCPrQ_Z-1ev?usp=sharing
+
 
 
 
